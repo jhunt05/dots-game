@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/test_starnavi/static/css/main.195c5d92.chunk.css",
-    "main.js": "/test_starnavi/static/js/main.6cd9f18f.chunk.js",
-    "main.js.map": "/test_starnavi/static/js/main.6cd9f18f.chunk.js.map",
-    "runtime-main.js": "/test_starnavi/static/js/runtime-main.7ca76666.js",
-    "runtime-main.js.map": "/test_starnavi/static/js/runtime-main.7ca76666.js.map",
-    "static/js/2.87e44ece.chunk.js": "/test_starnavi/static/js/2.87e44ece.chunk.js",
-    "static/js/2.87e44ece.chunk.js.map": "/test_starnavi/static/js/2.87e44ece.chunk.js.map",
-    "index.html": "/test_starnavi/index.html",
-    "precache-manifest.6edf17b612240bde8de2ff8a81a9dd8c.js": "/test_starnavi/precache-manifest.6edf17b612240bde8de2ff8a81a9dd8c.js",
-    "service-worker.js": "/test_starnavi/service-worker.js",
-    "static/css/main.195c5d92.chunk.css.map": "/test_starnavi/static/css/main.195c5d92.chunk.css.map",
-    "static/js/2.87e44ece.chunk.js.LICENSE": "/test_starnavi/static/js/2.87e44ece.chunk.js.LICENSE"
+    "main.css": "/dots-game/static/css/main.195c5d92.chunk.css",
+    "main.js": "/dots-game/static/js/main.6cd9f18f.chunk.js",
+    "main.js.map": "/dots-game/static/js/main.6cd9f18f.chunk.js.map",
+    "runtime-main.js": "/dots-game/static/js/runtime-main.543d5333.js",
+    "runtime-main.js.map": "/dots-game/static/js/runtime-main.543d5333.js.map",
+    "static/js/2.87e44ece.chunk.js": "/dots-game/static/js/2.87e44ece.chunk.js",
+    "static/js/2.87e44ece.chunk.js.map": "/dots-game/static/js/2.87e44ece.chunk.js.map",
+    "index.html": "/dots-game/index.html",
+    "precache-manifest.206f5190ac4eb9d09ee2e19b96c22c8c.js": "/dots-game/precache-manifest.206f5190ac4eb9d09ee2e19b96c22c8c.js",
+    "service-worker.js": "/dots-game/service-worker.js",
+    "static/css/main.195c5d92.chunk.css.map": "/dots-game/static/css/main.195c5d92.chunk.css.map",
+    "static/js/2.87e44ece.chunk.js.LICENSE": "/dots-game/static/js/2.87e44ece.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.7ca76666.js",
+    "static/js/runtime-main.543d5333.js",
     "static/js/2.87e44ece.chunk.js",
     "static/css/main.195c5d92.chunk.css",
     "static/js/main.6cd9f18f.chunk.js"
